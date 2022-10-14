@@ -19,4 +19,5 @@
  2, 모듈 드라이버 : 모듈에 들어가는 펌웨어 코드를 보안상 업로드 하지 못하여 따로 구현한 드라이버만 업로드 함.
  3, UDP서버 : nodejs로 구현하였고, 터미널 창에 node udp_server를 치면 미리 설정한 포트로 온 데이터를 읽는다.
  4, DB : wampserver라는 프로그램으로 DB를 생성하고 UDP서버와 앱과 연동됨.
- 5, App
+ 5, App : 아래 이미지 속 기능 외에 즐겨찾기, 검색기록 확인 등 여러 기능이 있음.
+ ![AppUI](https://user-images.githubusercontent.com/88094303/195768493-96ddf814-ad19-4f03-b85a-711aadff4cf7.png)
