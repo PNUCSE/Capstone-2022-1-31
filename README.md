@@ -21,3 +21,6 @@
  4, DB : wampserver라는 프로그램으로 DB를 생성하고 UDP서버와 앱과 연동됨.<br/>
  5, App : 아래 이미지 속 기능 외에 즐겨찾기, 검색기록 확인 등 여러 기능이 있음.<br/>
  ![AppUI](https://user-images.githubusercontent.com/88094303/195768493-96ddf814-ad19-4f03-b85a-711aadff4cf7.png)
+ 
+ ### 프로젝트 설명 영상 링크
+ https://youtu.be/FgYEQUiT0v8
