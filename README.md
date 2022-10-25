@@ -23,4 +23,4 @@
  ![AppUI](https://user-images.githubusercontent.com/88094303/195768493-96ddf814-ad19-4f03-b85a-711aadff4cf7.png)
  
  ### 프로젝트 설명 영상 링크
- https://youtu.be/FgYEQUiT0v8
+ [![프로젝트 소개](https://youtu.be/vi/FgYEQUiT0v8/0.jpg)](https://youtu.be/FgYEQUiT0v8)
